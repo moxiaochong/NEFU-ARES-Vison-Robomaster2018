@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\momo1.0\template\main.cpp(64): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+c:\momo1.0\template\main.cpp(146): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\main.cpp(151): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\main.cpp(208): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Template.vcxproj -> C:\momo1.0\x64\Debug\Template.exe

@@ -1,0 +1,78 @@
+﻿  Armor_Detector.cpp
+c:\momo1.0\template\armor_detector.cpp(47): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\momo1.0\template\armor_detector.cpp(47): warning C4305: “初始化”: 从“double”到“float”截断
+c:\momo1.0\template\armor_detector.cpp(55): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\momo1.0\template\armor_detector.cpp(55): warning C4305: “初始化”: 从“double”到“float”截断
+c:\momo1.0\template\armor_detector.cpp(303): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(306): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(309): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(312): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(384): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(385): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(388): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(389): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(393): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(394): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(400): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(401): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(402): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(403): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(418): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(419): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(422): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(423): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(427): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(428): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(434): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(435): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(436): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(437): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(452): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(453): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(456): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(457): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(461): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(462): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(468): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(469): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(470): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(471): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(486): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(487): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(490): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(491): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(495): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(496): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(502): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(503): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(504): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(505): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(521): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(526): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(527): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(528): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(529): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(530): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(598): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(599): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(611): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(612): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(665): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(666): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(678): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(679): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(763): warning C4101: “ballist_angle”: 未引用的局部变量
+c:\momo1.0\template\armor_detector.cpp(842): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\momo1.0\template\armor_detector.cpp(846): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  main.cpp
+c:\momo1.0\template\main.cpp(64): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+c:\momo1.0\template\main.cpp(146): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\main.cpp(151): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\main.cpp(209): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\momo1.0\template\main.cpp(216): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 1477 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Template.vcxproj -> C:\momo1.0\x64\Release\Template.exe
